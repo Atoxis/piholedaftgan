@@ -17,3 +17,8 @@ https://unpkg.com/
 https://cdn.jsdelivr.net/npm/bootstrap@5.x/
 https://stackpath.bootstrapcdn.com/bootstrap/
 https://cdn.tailwindcss.com
+image.tmdb.org
+i.imgur.com
+imgur.com
+googleusercontent.com
+youtube.com

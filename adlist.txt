@@ -23,3 +23,4 @@ youtube.com
 *.sharepoint.com
 giphy.com
 community-scripts.github.io/
+google.com

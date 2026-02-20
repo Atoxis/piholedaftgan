@@ -24,3 +24,4 @@ youtube.com
 giphy.com
 community-scripts.github.io/
 google.com
+daft-lab.fr
